@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# ChromaDB
+backend/chroma_db/
+
+# Uploads folder (don't push user uploaded files)
+backend/uploads/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
