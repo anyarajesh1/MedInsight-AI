@@ -1,4 +1,5 @@
 # Med Insight AI
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green) ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 Privacy-first medical document analysis with **RAG** (LangChain + ChromaDB). Upload lab PDFs, ask questions, and get answers with **cited sources** from a medical dictionary (NIH/Mayo style).
 
