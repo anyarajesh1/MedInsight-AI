@@ -1,3 +1,5 @@
+# Returns service status and confirms API is reachable
+
 from fastapi import APIRouter
 
 router = APIRouter()
